@@ -10,11 +10,11 @@ Explore the development of a Blockchain Event Ticket Booking DApp that leverages
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/erc20-token-creator-online-tool)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-blockchain-event-ticket-booking-dapp:-nft-airdrop-solidity-wagmi-and-next.js)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/h4GtGtzgl10?si=IWo8S1DoUFw27HwE)
+- [Final Code Setup video](https://youtu.be/jvw5IaerSlY)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
